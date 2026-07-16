@@ -95,7 +95,7 @@ Hooray! Half-way there! Now, the whole reason why we are forcing the latest upda
 
 7. Viola! if this was done correctly, you should start seeing your hands in your headset!
 
-To navigate around the menu with your hands, reach your hand out and make a pinching gesture to perform a "click". From here on out, just keep hitting next and continue with the headset setup. At some point, it will you to connect to your Wi-Fi network, adjusting your fitment with the headset, Health and Safety, pairing the headset to a Meta Account through the Meta Horizon App on your phone, Privacy, and Facial Tracking settings.
+To navigate around the menu with your hands, reach your hand out and make a pinching gesture to perform a "click". From here on out, just keep hitting next and continue with the headset setup. At some point, it will ask you to connect to your Wi-Fi network, adjust your fitment with the headset, Health and Safety guidelines, pairing the headset to a Meta Account through the Meta Horizon App on your phone, Privacy, and Facial Tracking settings.
 
 ---
 
